@@ -1,5 +1,5 @@
 {
-    "name": "pythontry",
+    "name": "python-Try",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -9,6 +9,8 @@
     "files": [
         "README.md",
         "main.blocks",
+        "main.py",
+        "PythonTry.ts",
         "main.ts"
     ],
     "testFiles": [
@@ -18,5 +20,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "pyprj"
 }
